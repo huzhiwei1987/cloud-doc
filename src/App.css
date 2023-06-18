@@ -1,0 +1,37 @@
+.icon-button {
+  background: none;
+  border: none;
+  color: inherit;
+}
+.c-link {
+  cursor: pointer;
+}
+.start-page {
+  font-size: 30px;
+  padding: 200px;
+  color: #ccc;
+  text-align: center;
+}
+.left-panel {
+  min-height: 100vh;
+  position: relative;
+}
+.button-group {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.right-panel {
+  position: relative;
+}
+.CodeMirror-scroll {
+  height: 600px !important;
+}
+.sync-status {
+  font-size: 12px;
+  color: #959694;
+  position: absolute;
+  bottom: 12px;
+  left: 10px;
+}
